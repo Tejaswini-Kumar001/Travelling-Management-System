@@ -31,7 +31,7 @@ step 7:- admin username :-admin and password : admin
 
 ## Connect with me ~Tejaswini K
 
-[![Linkedin Badge](https://www.linkedin.com/in/tejaswini-kumar-67962024a )
+# [LinkedIn](https://www.linkedin.com/in/tejaswini-kumar-67962024a)
 
 
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
